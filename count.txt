@@ -1,0 +1,3 @@
+Total documents imported: 289
+Failed imports: 0
+Corrupted documents: 1
